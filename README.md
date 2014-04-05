@@ -1,4 +1,5 @@
-repo_rt
-=======
+# _Repo_rt_
 
-a project to create useful project overview for projects that involve multiple repositories and team members
+_I found myself manually browsing commits of different repos to aggregate a report of the last sprint's activities. This project should make that easier for me, and anybody with the same problem.
+
+# [Trello board](https://trello.com/b/dwSypFTK/commit-aggregator)
